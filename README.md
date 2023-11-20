@@ -21,8 +21,8 @@ Hello there! 👋 I'm M.Ç., a part-time Software Engineer passionate about craf
 - Web Technologies: Flask
 - Containerization: Docker
 
-## Let's Connect! [to fill later]
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+## Let's Connect! I'll add it this week:
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) 
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Personal Website/Blog](https://www.yourwebsite.com)
 
