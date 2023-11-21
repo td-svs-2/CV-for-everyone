@@ -1,7 +1,7 @@
 # M.Ç. - Part-time Software Engineer
 
 ## About Me
-Hello there! 👋 I'm M.Ç., a part-time Software Engineer passionate about crafting efficient and elegant solutions. I specialize in Docker, Flask, and Python. This README offers a glimpse into my journey, skills, and ongoing exploration in the realm of software development.
+Hello there! 👋 I'm Mehmed Çakür, a part-time Software Engineer passionate about crafting efficient and elegant solutions. I specialize in Docker, Flask, and Python. This README offers a glimpse into my journey, skills, and ongoing exploration in the realm of software development.
 
 ## Professional Journey
 
